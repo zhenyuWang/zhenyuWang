@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+你好，我是王振宇
+一名前端开发工程师
+vue技术栈
