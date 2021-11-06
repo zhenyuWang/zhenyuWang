@@ -6,6 +6,4 @@
 
 社交主页
 
-[掘金](https://juejin.cn/user/4212984285249245/posts)
-
-[B站](https://space.bilibili.com/1822108502)
+[掘金](https://juejin.cn/user/4212984285249245/posts) [B站](https://space.bilibili.com/1822108502)
