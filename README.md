@@ -7,4 +7,4 @@
 
 ![profile](https://github-profile-trophy.vercel.app/?username=zhenyuWang&theme=algolia&column=8)
 
-![](https://activity-graph.herokuapp.com/graph?username=zhenyuWang&theme=github)
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=zhenyuWang&theme=github) -->
